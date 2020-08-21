@@ -3,7 +3,7 @@ Exploratory project analyzing EEG data from Schizophrenia patients with Multivie
 
 ## Summary
 
-This project consists of notebooks to perform exploratory analysis on the Schizophrenia dataset described in the following paper and available from [Kaggle](https://www.kaggle.com/broach/button-tone-sz).
+This project consists of notebooks to perform exploratory analysis on the Schizophrenia dataset described in (1) and available from [Kaggle](https://www.kaggle.com/broach/button-tone-sz).
 
 The experiments here use Multiview ICA (2) in the [mvlearn](https://mvlearn.neurodata.io/) (3) package.
 
